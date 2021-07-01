@@ -1,0 +1,23 @@
+{
+  "name": "good-readme-generator",
+  "version": "1.0.0",
+  "description": "Creating an application that generates quality readMe's for clients.",
+  "main": "questions.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tpnettles/good-README-generator.git"
+  },
+  "author": "Tyree Nettles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tpnettles/good-README-generator/issues"
+  },
+  "homepage": "https://github.com/Tpnettles/good-README-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
