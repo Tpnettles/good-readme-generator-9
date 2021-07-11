@@ -33,8 +33,8 @@ const generateMarkdown = (answers) =>
   
   ## Demonstrations/Examples
   
-  ${answers.usage}
-    
+  Here is a link to the walkthrough/demonstration video of this application [https://drive.google.comfiled1S6xbmC4PCnHtUQxh2MmfrcSQieXaJ17mview].
+   
   ## Requirements_of_contributions
   
   ${answers.contributing}
@@ -47,6 +47,7 @@ const generateMarkdown = (answers) =>
   
   Here is my e-mail address [${answers.email_information}].
   Here is the link to my GitHub page [https://github.com/${answers.GitHub_information}].
+  
   
   ## License 
   

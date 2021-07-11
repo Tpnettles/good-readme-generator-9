@@ -1,5 +1,5 @@
 
-  # Good readme generator
+  # 
 
   # Table of Contents
 
@@ -19,28 +19,29 @@
 
   ## Description
   
-  This is an application that provides users with needed information to completely understand the application and the functionality of it.
+  
   
   ## Instructions
   
-  Invoke application by running node index in the terminal * fill out answers to prompted questions.
+  
   
   ## Demonstrations/Examples
+  Here is the link to the walkthrough video of this application [httpsdrive.google.comfiled1S6xbmC4PCnHtUQxh2MmfrcSQieXaJ17mview].
   
-  We are doing that part here.
     
   ## Requirements_of_contributions
   
-  None
+  
   
   ## Testing
   
-  None
+  
   
   ## Links
   
-  Here is my e-mail address [nettles.code@gmail.com].
-  Here is the link to my GitHub page [https://github.com/tpnettles].
+  Here is my e-mail address [].
+  Here is the link to my GitHub page [https://github.com/].
+  
   
   ## License 
   
